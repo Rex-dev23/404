@@ -1,0 +1,10 @@
+D:\Алиев Шамиль\404\404\obj\Debug\404.csproj.AssemblyReference.cache
+D:\Алиев Шамиль\404\404\obj\Debug\_404.Form1.resources
+D:\Алиев Шамиль\404\404\obj\Debug\_404.Properties.Resources.resources
+D:\Алиев Шамиль\404\404\obj\Debug\404.csproj.GenerateResource.cache
+D:\Алиев Шамиль\404\404\obj\Debug\404.csproj.CoreCompileInputs.cache
+D:\Алиев Шамиль\404\404\bin\Debug\404.exe.config
+D:\Алиев Шамиль\404\404\bin\Debug\404.exe
+D:\Алиев Шамиль\404\404\bin\Debug\404.pdb
+D:\Алиев Шамиль\404\404\obj\Debug\404.exe
+D:\Алиев Шамиль\404\404\obj\Debug\404.pdb
